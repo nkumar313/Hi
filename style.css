@@ -1,0 +1,278 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-color: #eb3458;
+    margin-bottom: 25px;
+    font-family: "Oswald", sans-serif;
+}
+.bg{
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    height: 150px;
+    background-image: url(brown-charlie-comics-peanuts-wallpaper-preview.jpg);
+    background-size: contain;
+    border-radius: 100px;
+    margin-bottom: 10px;
+    border: 2px solid white;
+}
+.navbar{
+    height: 30px;
+    text-align: center;
+    background-color: #6932a8;
+    border-radius: 500px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border: 2px solid white;
+}
+
+.space{
+    margin-right: 80px;
+    text-decoration: none;
+    background: black;
+    color: wheat;
+    border-radius: 10px;
+    font-weight: 900px;
+}
+.space:hover{
+    background-color: white;
+    color:black;
+    border: 2px solid black;
+}
+h1{
+    text-align: center;
+    color: white;
+  -webkit-text-fill-color: black; /* Will override color (regardless of order) */
+  -webkit-text-stroke: 3px white;
+    font-size: 7vw;
+    font-weight: 900;
+}
+.bg2{
+    height: 40vw;
+    width: 25vw;
+    background-image: url(HD-wallpaper-iphone-snoopy-peanuts-summer.jpg);
+    background-size: contain;
+    float: right;
+    margin-right: 25px;
+    margin-top: 25px;
+    border-radius: 100px;
+    border: 2px solid white;
+}
+.bg3{
+    height: 58vw;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 10px;
+    background-color: #9ea832;
+    border-radius: 50px;
+    border: 2px solid white;
+}
+h4{
+    margin-left: 8px;
+}
+details{
+    margin-top: 30px;
+    margin-left: 8px;
+    background-color:#6932a8;
+    width: 600px;
+    border: 2px solid white;
+    color: wheat;
+    border-radius: 10px;
+}
+iframe{
+    margin-left: 28px;
+    margin-top: 25px;
+}
+
+h3{
+    text-align: center;
+    color: wheat;
+}
+.footer{
+    height: 48px;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: #6932a8;
+    border: 2px solid white;
+    text-align: center;
+    border-radius: 500px;
+    color: wheat;
+    margin-top: 10px;
+}
+.above{
+    height: 30px;
+    text-align: center;
+    background-color: #6932a8;
+    border-radius: 500px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border: 2px solid white;
+    margin-top: 15px;
+}
+
+.space1{
+    margin-right: 80px;
+    margin-top: 10px;
+    text-decoration: none;
+    background: black;
+    color: wheat;
+    border-radius: 10px;
+    font-weight: 900px;
+}
+.space1:hover{
+    background-color: white;
+    color:black;
+    border: 2px solid black;
+}
+.bg5{
+    height: 58vw;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 10px;
+    background-color: #9ea832;
+    border-radius: 50px;
+    border: 2px solid white;
+}
+.bg7{
+    margin-top: 70px;
+    margin-left: 400px;
+    margin-right: 400px;
+    height: 50vw;
+    border: 2px solid white;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: beige;
+}
+.bg8{
+    margin-left: 40px;
+    margin-top: 180px;
+    height: 40vw;
+    width: 18vw;
+    float: left;
+    background-image: url(b33986c0593e126f24df9d2ace0ea829.jpg);
+    border-radius: 130px;
+    border: 2px solid white;
+}
+.bg9{
+    margin-right: 40px;
+    margin-top: 180px;
+    height: 40vw;
+    width: 18vw;
+    float: right;
+    background-image: url(b33986c0593e126f24df9d2ace0ea829.jpg);
+    border-radius: 130px;
+    border: 2px solid white;
+}
+p{
+    font-size:xx-large;
+    font-weight: 900;
+}
+label{
+    font-size: large;
+    font-weight: bold;
+}
+.bg14{
+    height: 130vw;
+margin-left: 25px;
+margin-right: 25px;
+margin-top: 10px;
+background-color: #9ea832;
+border-radius: 50px;
+border: 2px solid white;
+}
+.bg11{
+    height: 47px;
+    margin-left: 400px;
+    margin-top: 30px;
+    margin-right: 400px;
+    margin-bottom: 10px;
+    background-color: #eb3458;
+    border: 3px solid white;
+    border-radius: 20px;
+    text-align: center;
+    font-size:xx-large;
+    font-weight: 900;
+    -webkit-text-fill-color: black; /* Will override color (regardless of order) */
+    -webkit-text-stroke: 1px white;
+}
+.m{
+    height: 310px;
+    width: 880px;
+    background-color: lightblue;
+    border: 4px solid black;
+    border-radius: 20px;
+    margin-left: 230px;
+    margin-top: 40px;
+}
+#mo1{
+    height: 300px;
+    width: 200px;
+    background-image: url(snoopycomehome-posterart.jpg);
+    background-size: cover;
+    border: 2px solid black;
+    border-radius: 230px ;
+    margin-left: 20px;
+    margin-top: 3px;
+    float: left;
+}
+.ti{
+    margin-left: 100px;
+    font-weight: 900;
+    font-size: xx-large;
+}
+.par{
+    line-height: 30px;
+}
+#sno{
+    margin-top: 50px;
+    margin-left: 200px;
+    font-weight: 700;
+}
+.m1{
+    height: 300px;
+    width: 200px;
+    background-image: url(aboynamedcharliebrown-posterart.jpg);
+    background-size: cover;
+    border: 2px solid black;
+    border-radius: 230px ;
+    margin-left: 20px;
+    margin-top: 3px;
+    float: left;
+}
+.m2{
+    height: 300px;
+    width: 200px;
+    background-image: url(image.jpg);
+    background-size: cover;
+    border: 2px solid black;
+    border-radius: 230px ;
+    margin-left: 20px;
+    margin-top: 3px;
+    float: left;
+}
+.m3{
+    height: 300px;
+    width: 200px;
+    background-image: url(4769902_so.jpg);
+    background-size: cover;
+    border: 2px solid black;
+    border-radius: 230px ;
+    margin-left: 20px;
+    margin-top: 3px;
+    float: left;
+}
+.m4{
+    height: 300px;
+    width: 200px;
+    background-image: url(images.jpeg);
+    background-size: cover;
+    border: 2px solid black;
+    border-radius: 230px ;
+    margin-left: 20px;
+    margin-top: 3px;
+    float: left;
+}
